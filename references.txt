@@ -12,3 +12,4 @@ Eraut, M. (2000). Non-formal learning and tacit knowledge in professional work. 
 Mortensen, M., & Neeley, T. B. (2012). Reflected knowledge and trust in global collaboration. Management Science, 58(12), 2207-2224.
 Ушинский, К. Д. Педагогика. Избранные работы, М. Юрайт, 2017, 284 с.
 Wright, J. C., & Mischel, W. (1988). Conditional hedges and the intuitive psychology of traits. Journal of personality and social psychology, 55(3), 454
+"Feature"
